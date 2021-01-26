@@ -1,3 +1,25 @@
+# Live Demo
+You can view the live Quiz Module here :  https://adishisood.github.io/Quiz-Module/.
+# Quiz Module
+1) Click on start button to start your quiz
+![](Screengrabs/StartQuiz.png)
+
+2) Choose an option
+![](Screengrabs/ChooseOption.png)
+
+3) If user clicks on the submit button without selecting any option it will show a prompt saying 'Please choose an option'.
+![](Screengrabs/ALert.png)
+
+4) If user gives correct answer, it shows a correct text on screen.
+![](Screengrabs/CorrectAnswer.png)
+
+5) If user gives incorrect answer, it shows a incorrect text on screen.
+![](Screengrabs/IncorrectAnswer.png)
+
+6) After you finish your quiz, your scores and Correct Answers will be displayed on the screen.
+![](Screengrabs/QuizResult.png)
+
+
 ### I have Build a basic quiz module by fulfilling the below User stories
 
 **User story 1:** Design a Quiz page that keeps track of scores.
