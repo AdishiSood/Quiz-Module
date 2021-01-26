@@ -15,7 +15,7 @@ var questions=[{
         "answer":"4"
     },
     {
-        "question":"How to include Javacript in HTML documents ?",
+        "question":"How to include Javascript in HTML documents ?",
         "option1":"meta",
         "option2":"script",
         "option3":"head",
@@ -47,7 +47,7 @@ var questions=[{
         "answer":"3"
     },
     {
-        "question":"How do you define objects in Javascipt?",
+        "question":"How do you define objects in Javascript?",
         "option1":"()",
         "option2":"{}",
         "option3":"[]",
@@ -193,16 +193,16 @@ function showScore()
     heading.innerHTML="QUIZ RESULTS";
     resultContainer.style.display='block';
     resultContainer.innerHTML="<b>Your Score "+score+"<br><br></b>"+
-        "1) A complete graph can have :- n^(n-2) spanning trees"+"<br><br>"+
-        "2) What is the full form of CSS? :-"+"<br><br>"+
-        "3) How to include Javacript in HTML documents ? :- script"+"<br><br>"+
-        "4) How to declare variable in Javascript?:- var n;"+"<br><br>"+
-        "5) What => means in javascript? :- Arrow function"+"<br><br>"+
-        "6) Which of the following is not a javascript framework ? :- Django"+"<br><br>"+
-        "7) How do you define objects in Javascipt? :-  {}"+"<br><br>"+
-        "8) What is the output of '2'+ 2 ? :- 22"+"<br><br>"+
-        "9) What is the output of '2'- 1 ? :- 1"+"<br><br>"+
-        "10) What is these is not a valid Javascript version? :- EX19";
+        "1) A complete graph can have : n^(n-2) spanning trees"+"<br><br>"+
+        "2) What is the full form of CSS? : none of these"+"<br><br>"+
+        "3) How to include Javascript in HTML documents ? : script"+"<br><br>"+
+        "4) How to declare variable in Javascript?: var n;"+"<br><br>"+
+        "5) What => means in javascript? : Arrow function"+"<br><br>"+
+        "6) Which of the following is not a javascript framework ? : Django"+"<br><br>"+
+        "7) How do you define objects in Javascript? :  {}"+"<br><br>"+
+        "8) What is the output of '2'+ 2 ? : 22"+"<br><br>"+
+        "9) What is the output of '2'- 1 ? : 1"+"<br><br>"+
+        "10) What is these is not a valid Javascript version? : EX19";
     var re=document.getElementById("re-btn");
     re.style.display='block';
     re.addEventListener('click',function(){
