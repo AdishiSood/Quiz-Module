@@ -1,5 +1,5 @@
 # Live Demo
-You can view the live Quiz Module here :  https://adishisood.github.io/Quiz-Module/.
+You can view the live Quiz Module here :  [Quiz Module](https://adishisood.github.io/Quiz-Module/)
 # Quiz Module
 1) Click on start button to start your quiz
 ![](Screengrabs/StartQuiz.png)
