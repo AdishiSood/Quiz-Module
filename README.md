@@ -1,6 +1,14 @@
 In this project, I’ll walk you though creating a multi-step JavaScript quiz which you’ll be able to adapt to your needs and add to your own site. If you’d like to see what we’ll be ending up with, you can skip ahead and see [the working quiz](https://adishisood.github.io/Quiz-Module/)
 
 # The Basic Structure of this JavaScript Quiz
+Ideally, we want the quiz’s questions and answers to be in our JavaScript code and have our script automatically generate the quiz. That way, we won’t need to write a lot of repetitive markup, and we can add and remove questions easily.
+
+To set up the structure of our JavaScript quiz, we’ll need to start with the following HTML:
+
+- <div> to hold the quiz
+- <button> to submit the quiz
+- <div> to display the results
+
 
 # Quiz Module
 1) Click on start button to start your quiz
