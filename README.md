@@ -1,4 +1,4 @@
-In this tutorial, I’ll walk you though creating a multi-step JavaScript quiz which you’ll be able to adapt to your needs and add to your own site. If you’d like to see what we’ll be ending up with, you can skip ahead and see [the working quiz](https://adishisood.github.io/Quiz-Module/)
+In this project, I’ll walk you though creating a multi-step JavaScript quiz which you’ll be able to adapt to your needs and add to your own site. If you’d like to see what we’ll be ending up with, you can skip ahead and see [the working quiz](https://adishisood.github.io/Quiz-Module/)
 # Quiz Module
 1) Click on start button to start your quiz
 ![](Screengrabs/StartQuiz.png)
