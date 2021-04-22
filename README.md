@@ -10,8 +10,8 @@ To set up the structure of our JavaScript quiz, we’ll need to start with the f
 - div tag: to display the results
 
 
-# Quiz Module
-1) Click on start button to start your quiz
+## Working of Quiz Module ❓
+1) Click on start button to start your quiz 🏁
 ![](Screengrabs/StartQuiz.png)
 
 2) Choose an option
@@ -26,7 +26,7 @@ To set up the structure of our JavaScript quiz, we’ll need to start with the f
 5) If user gives incorrect answer, it shows a incorrect text on screen.
 ![](Screengrabs/IncorrectAnswer.png)
 
-6) After you finish your quiz, your scores and Correct Answers will be displayed on the screen.
+6) After you finish your quiz, your scores and Correct Answers will be displayed on the screen. 💯
 ![](Screengrabs/QuizResult.png)
 
 
