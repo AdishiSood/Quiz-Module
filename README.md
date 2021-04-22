@@ -5,9 +5,9 @@ Ideally, we want the quiz’s questions and answers to be in our JavaScript code
 
 To set up the structure of our JavaScript quiz, we’ll need to start with the following HTML:
 
-- <div> to hold the quiz
-- <button> to submit the quiz
-- <div> to display the results
+- div tag: to hold the quiz
+- button tag: to submit the quiz
+- div tag: to display the results
 
 
 # Quiz Module
